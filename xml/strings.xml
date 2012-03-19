@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string id="origin_input_placeholder">Enter origin</string>
+    <string id="destination_input_placeholder">Enter destination</string>
+    
+    <string id="show_fare_button_value">Estimate Fare</string>
+        
+    <string id="fare_base_rate">4.25</string>
+    <string id="fare_distance_unit">0.143</string>    
+    <string id="fare_rate_per_distance_unit">0.25</string>
+
+    <string id="map_output_center_lat">43.653218</string>
+    <string id="map_output_center_lng">-79.383087</string>
+
+    <string id="map_output_default_zoom_level">10</string>
+    
+    <string id="map_output_map_style_name">Greyscale</string>
+
+    <string id="map_output_marker_image_url_prefix"><![CDATA[https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=]]></string>    
+    <string id="map_output_marker_shadow_url">https://chart.googleapis.com/chart?chst=d_map_pin_shadow</string>
+    
+    <string id="map_output_origin_marker_colour">caff70</string>
+    <string id="map_output_origin_marker_icon">A</string>
+    <string id="map_output_origin_marker_title">Origin</string>
+
+    <string id="map_output_destination_marker_colour">ff6eb4</string>    
+    <string id="map_output_destination_marker_icon">B</string> 
+    <string id="map_output_destination_marker_title">Destination</string>
+    
+    <string id="map_output_route_stroke_colour">66cd00</string>
+    <string id="map_output_route_stroke_weight">5</string>
+
+    <string id="invalid_input_error_message">Your origin or destination appears to be invalid. Please try again.</string>    
+</resources>
